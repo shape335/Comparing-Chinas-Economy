@@ -1,2 +1,2 @@
-# BRICS-economy-comparison-with-U.S.
-This repository explores and compares the economies of BRICS nations and the top of economies of the west using data collected by the world bank and gapminder and visualized with python-framework, pandas. 
+# A Comparison of China's Economy
+This repository explores and compares China's economy with other top economies of the world. The data was collected extraxted the world bank and gapminder and visualized with python-framework, pandas. 
